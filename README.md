@@ -1,4 +1,4 @@
-# 📊 HR Analytics Dashboard | Employee Attrition Analysis
+# HR Analytics Dashboard | Employee Attrition Analysis
 
 > An interactive Tableau dashboard designed to analyze workforce trends, employee attrition, and key HR metrics to support data-driven decision-making.
 
@@ -123,26 +123,11 @@ The dashboard consists of multiple interactive visualizations designed to provid
 
 > Replace the image below with your dashboard screenshot.
 
-![HR Dashboard](Dashboard.png)
+![Dashboard Preview](HR_Dashboard.png)
 
----
 
-# 📁 Repository Structure
 
-```
-HR-Analytics-Tableau/
-│
-├── HR Dashboard(Tableau).twbx
-├── HR Dashboard(Tableau).twb
-├── HR Data.xlsx
-├── Dashboard.png
-├── Dashboard.pdf
-├── README.md
-```
-
----
-
-# 🚀 How to Run the Project
+#  How to Run the Project
 
 1. Clone this repository.
 
