@@ -129,13 +129,7 @@ The dashboard consists of multiple interactive visualizations designed to provid
 
 #  How to Run the Project
 
-1. Clone this repository.
-
-```
-git clone https://github.com/yourusername/HR-Analytics-Tableau.git
-```
-
-2. Open the `.twbx` file using Tableau Desktop or Tableau Public.
+1. Open the `.twbx` file using Tableau Desktop or Tableau Public.
 
 3. Explore the dashboard using interactive filters.
 
